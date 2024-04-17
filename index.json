@@ -1,0 +1,617 @@
+﻿[
+	{
+		"link": "1-safety/README.md",
+		"char_ofs": 0,
+		"byte_ofs": 0
+	},
+	{
+		"link": "1-safety/1-introduction/README.md",
+		"char_ofs": 8,
+		"byte_ofs": 15
+	},
+	{
+		"link": "1-safety/1-introduction/1-cautions.md",
+		"char_ofs": 1044,
+		"byte_ofs": 2332
+	},
+	{
+		"link": "1-safety/1-introduction/2-general_matters.md",
+		"char_ofs": 1981,
+		"byte_ofs": 4056
+	},
+	{
+		"link": "1-safety/2-relevent_safety_regulations.md",
+		"char_ofs": 2665,
+		"byte_ofs": 5409
+	},
+	{
+		"link": "1-safety/3-safety_training.md",
+		"char_ofs": 2764,
+		"byte_ofs": 5593
+	},
+	{
+		"link": "1-safety/4-safety_related_nameplate/README.md",
+		"char_ofs": 2985,
+		"byte_ofs": 6093
+	},
+	{
+		"link": "1-safety/4-safety_related_nameplate/1-safety_marking.md",
+		"char_ofs": 3000,
+		"byte_ofs": 6123
+	},
+	{
+		"link": "1-safety/4-safety_related_nameplate/2-safety_nameplate.md",
+		"char_ofs": 4675,
+		"byte_ofs": 8131
+	},
+	{
+		"link": "1-safety/5-definition_of_safety_functions.md",
+		"char_ofs": 5314,
+		"byte_ofs": 9359
+	},
+	{
+		"link": "1-safety/6-installation/README.md",
+		"char_ofs": 6500,
+		"byte_ofs": 11632
+	},
+	{
+		"link": "1-safety/6-installation/1-safety_fence.md",
+		"char_ofs": 6509,
+		"byte_ofs": 11648
+	},
+	{
+		"link": "1-safety/6-installation/2-placement_of_robot_peripheral_equipment.md",
+		"char_ofs": 8002,
+		"byte_ofs": 14548
+	},
+	{
+		"link": "1-safety/6-installation/3-installing_the_robot_copy.md",
+		"char_ofs": 10029,
+		"byte_ofs": 18494
+	},
+	{
+		"link": "1-safety/6-installation/4-space_for_robot_installation.md",
+		"char_ofs": 13355,
+		"byte_ofs": 24345
+	},
+	{
+		"link": "1-safety/7-safety_operation_for_robot_handling/README.md",
+		"char_ofs": 13641,
+		"byte_ofs": 25038
+	},
+	{
+		"link": "1-safety/7-safety_operation_for_robot_handling/1-safety_precautions_for_robot_handling.md",
+		"char_ofs": 13835,
+		"byte_ofs": 25511
+	},
+	{
+		"link": "1-safety/7-safety_operation_for_robot_handling/2-safety_precautions_for_operationg_test.md",
+		"char_ofs": 20796,
+		"byte_ofs": 35717
+	},
+	{
+		"link": "1-safety/7-safety_operation_for_robot_handling/3-safety_precautions_for_automatic_operation.md",
+		"char_ofs": 21992,
+		"byte_ofs": 37896
+	},
+	{
+		"link": "1-safety/8-safety_precautions_for_robot_handling.md",
+		"char_ofs": 23806,
+		"byte_ofs": 41257
+	},
+	{
+		"link": "1-safety/9-safety_precautions_for_maintenance_and_repair/README.md",
+		"char_ofs": 25682,
+		"byte_ofs": 44582
+	},
+	{
+		"link": "1-safety/9-safety_precautions_for_maintenance_and_repair/1-safety_precautions_for_controller_maintenance_and_repair.md",
+		"char_ofs": 25702,
+		"byte_ofs": 44623
+	},
+	{
+		"link": "1-safety/9-safety_precautions_for_maintenance_and_repair/2-safety_precautions_for_robot_system_manipulator_maintenance.md",
+		"char_ofs": 26994,
+		"byte_ofs": 46728
+	},
+	{
+		"link": "1-safety/9-safety_precautions_for_maintenance_and_repair/3-necessary_actions_after_maintenance_and_repair.md",
+		"char_ofs": 28069,
+		"byte_ofs": 48562
+	},
+	{
+		"link": "1-safety/10-safety_functions/README.md",
+		"char_ofs": 29047,
+		"byte_ofs": 50057
+	},
+	{
+		"link": "1-safety/10-safety_functions/1-operating_a_safety_circuit.md",
+		"char_ofs": 29061,
+		"byte_ofs": 50082
+	},
+	{
+		"link": "1-safety/10-safety_functions/2-emergency_stop.md",
+		"char_ofs": 30746,
+		"byte_ofs": 53614
+	},
+	{
+		"link": "1-safety/10-safety_functions/3-operating_speed.md",
+		"char_ofs": 31769,
+		"byte_ofs": 55450
+	},
+	{
+		"link": "1-safety/10-safety_functions/4-connecting_the_safety_devices.md",
+		"char_ofs": 31854,
+		"byte_ofs": 55636
+	},
+	{
+		"link": "1-safety/10-safety_functions/5-restricting_the_safety_devices.md",
+		"char_ofs": 32029,
+		"byte_ofs": 56042
+	},
+	{
+		"link": "1-safety/10-safety_functions/6-monitoring_function.md",
+		"char_ofs": 32957,
+		"byte_ofs": 57747
+	},
+	{
+		"link": "1-safety/11-safety_related_to_end_effectors/README.md",
+		"char_ofs": 33224,
+		"byte_ofs": 58197
+	},
+	{
+		"link": "1-safety/11-safety_related_to_end_effectors/1-gripper.md",
+		"char_ofs": 33261,
+		"byte_ofs": 58259
+	},
+	{
+		"link": "1-safety/11-safety_related_to_end_effectors/2-tool_workpiece.md",
+		"char_ofs": 33789,
+		"byte_ofs": 59290
+	},
+	{
+		"link": "1-safety/11-safety_related_to_end_effectors/3-pneumatic_and_hydraulic_systems.md",
+		"char_ofs": 34103,
+		"byte_ofs": 59865
+	},
+	{
+		"link": "1-safety/12-liablilities.md",
+		"char_ofs": 34370,
+		"byte_ofs": 60335
+	},
+	{
+		"link": "2-specifications/README.md",
+		"char_ofs": 36210,
+		"byte_ofs": 63412
+	},
+	{
+		"link": "2-specifications/1-format_for_the_robot_mechanical_part.md",
+		"char_ofs": 36218,
+		"byte_ofs": 63427
+	},
+	{
+		"link": "2-specifications/2-location_of_the_robot_nameplate.md",
+		"char_ofs": 36288,
+		"byte_ofs": 63550
+	},
+	{
+		"link": "2-specifications/3-basic_specifications.md",
+		"char_ofs": 36445,
+		"byte_ofs": 63852
+	},
+	{
+		"link": "2-specifications/4-external-dimensions_of_the_manipulator_and_the_operation_area.md",
+		"char_ofs": 42521,
+		"byte_ofs": 70294
+	},
+	{
+		"link": "2-specifications/5-names_of_operation_axes.md",
+		"char_ofs": 42717,
+		"byte_ofs": 70635
+	},
+	{
+		"link": "2-specifications/6-detailed_diagram_of_the_wrist_axis_attachment_surface.md",
+		"char_ofs": 44742,
+		"byte_ofs": 72779
+	},
+	{
+		"link": "2-specifications/7-detailed_diagram_of_the_attachment_surface_on_the_top_of_the_arm_frame.md",
+		"char_ofs": 44879,
+		"byte_ofs": 73049
+	},
+	{
+		"link": "2-specifications/8-wiring_and_piping_diagrams_for_applications.md",
+		"char_ofs": 45319,
+		"byte_ofs": 73812
+	},
+	{
+		"link": "2-specifications/9-limitation_of_the_operation_range/README.md",
+		"char_ofs": 45676,
+		"byte_ofs": 74482
+	},
+	{
+		"link": "2-specifications/9-limitation_of_the_operation_range/1-axis_1(axis_s).md",
+		"char_ofs": 46160,
+		"byte_ofs": 75527
+	},
+	{
+		"link": "3-precautions-for-handling/README.md",
+		"char_ofs": 46292,
+		"byte_ofs": 75785
+	},
+	{
+		"link": "3-precautions-for-handling/1-names-of-idividual-parts.md",
+		"char_ofs": 46308,
+		"byte_ofs": 75816
+	},
+	{
+		"link": "3-precautions-for-handling/2-locations-of-the-safety-nameplates.md",
+		"char_ofs": 46442,
+		"byte_ofs": 76065
+	},
+	{
+		"link": "3-precautions-for-handling/3-how-to-transport/README.md",
+		"char_ofs": 46646,
+		"byte_ofs": 76440
+	},
+	{
+		"link": "3-precautions-for-handling/3-how-to-transport/1-using-a-crane.md",
+		"char_ofs": 47334,
+		"byte_ofs": 77935
+	},
+	{
+		"link": "3-precautions-for-handling/3-how-to-transport/2-using-a-forklift.md",
+		"char_ofs": 49706,
+		"byte_ofs": 80792
+	},
+	{
+		"link": "3-precautions-for-handling/4-storage-of-the-robot.md",
+		"char_ofs": 52557,
+		"byte_ofs": 84450
+	},
+	{
+		"link": "3-precautions-for-handling/5-installation-methods/README.md",
+		"char_ofs": 52715,
+		"byte_ofs": 84779
+	},
+	{
+		"link": "3-precautions-for-handling/5-installation-methods/1-working-conditions.md",
+		"char_ofs": 53086,
+		"byte_ofs": 85587
+	},
+	{
+		"link": "3-precautions-for-handling/5-installation-methods/2-installation-of-the-manipulator.md",
+		"char_ofs": 53502,
+		"byte_ofs": 86250
+	},
+	{
+		"link": "3-precautions-for-handling/5-installation-methods/3-accuracy-of-the-installation-surface.md",
+		"char_ofs": 53891,
+		"byte_ofs": 87028
+	},
+	{
+		"link": "3-precautions-for-handling/5-installation-methods/4-dimensions-of-the-installation-surface.md",
+		"char_ofs": 54056,
+		"byte_ofs": 87340
+	},
+	{
+		"link": "3-precautions-for-handling/5-installation-methods/5-connecting-the-robot-cables.md",
+		"char_ofs": 54204,
+		"byte_ofs": 87621
+	},
+	{
+		"link": "3-precautions-for-handling/5-installation-methods/6-emergency-stop-time-and-distance.md",
+		"char_ofs": 54680,
+		"byte_ofs": 88344
+	},
+	{
+		"link": "3-precautions-for-handling/5-installation-methods/7-connecting_a_load.md",
+		"char_ofs": 54937,
+		"byte_ofs": 88756
+	},
+	{
+		"link": "3-precautions-for-handling/6-allowable-load-of-the-wrist-axis/README.md",
+		"char_ofs": 55158,
+		"byte_ofs": 89222
+	},
+	{
+		"link": "3-precautions-for-handling/6-allowable-load-of-the-wrist-axis/1-calculation-of-the-allowable-load-torque.md",
+		"char_ofs": 55179,
+		"byte_ofs": 89262
+	},
+	{
+		"link": "3-precautions-for-handling/6-allowable-load-of-the-wrist-axis/2-calculation-of-the-allowable-moment-of-Inertia.md",
+		"char_ofs": 57557,
+		"byte_ofs": 92605
+	},
+	{
+		"link": "3-precautions-for-handling/6-allowable-load-of-the-wrist-axis/3-example-of-the-calculation-of-the-allowable-torque-and-moment-of-inertia.md",
+		"char_ofs": 59156,
+		"byte_ofs": 94561
+	},
+	{
+		"link": "4-inspection/README.md",
+		"char_ofs": 64146,
+		"byte_ofs": 100919
+	},
+	{
+		"link": "4-inspection/1-inspection-plan.md",
+		"char_ofs": 64206,
+		"byte_ofs": 101062
+	},
+	{
+		"link": "4-inspection/2-inspection-items-and-cycles.md",
+		"char_ofs": 65706,
+		"byte_ofs": 103085
+	},
+	{
+		"link": "4-inspection/3-inspection-of-main-external-bolts.md",
+		"char_ofs": 71797,
+		"byte_ofs": 110939
+	},
+	{
+		"link": "5-maintenance/README.md",
+		"char_ofs": 73995,
+		"byte_ofs": 113564
+	},
+	{
+		"link": "5-maintenance/1-injecting_grease_after_replacing_grease_or_replacing_the_reducer/README.md",
+		"char_ofs": 74003,
+		"byte_ofs": 113579
+	},
+	{
+		"link": "5-maintenance/1-injecting_grease_after_replacing_grease_or_replacing_the_reducer/1-grease-injection-amount-for-each-axis.md",
+		"char_ofs": 78746,
+		"byte_ofs": 120591
+	},
+	{
+		"link": "5-maintenance/1-injecting_grease_after_replacing_grease_or_replacing_the_reducer/2-grease-injection-amount-for-the-arm-frame-gear-box.md",
+		"char_ofs": 82061,
+		"byte_ofs": 123967
+	},
+	{
+		"link": "5-maintenance/1-injecting_grease_after_replacing_grease_or_replacing_the_reducer/3-plug_size_for_each_axis.md",
+		"char_ofs": 83219,
+		"byte_ofs": 125232
+	},
+	{
+		"link": "5-maintenance/1-injecting_grease_after_replacing_grease_or_replacing_the_reducer/4-sequence-for-replacing-the-grease.md",
+		"char_ofs": 84796,
+		"byte_ofs": 126840
+	},
+	{
+		"link": "5-maintenance/1-injecting_grease_after_replacing_grease_or_replacing_the_reducer/5-sequence-for-subtracting-the-residual-pressure.md",
+		"char_ofs": 86073,
+		"byte_ofs": 129078
+	},
+	{
+		"link": "5-maintenance/1-injecting_grease_after_replacing_grease_or_replacing_the_reducer/6-sequence-for-discharging-the-grease.md",
+		"char_ofs": 87798,
+		"byte_ofs": 131203
+	},
+	{
+		"link": "5-maintenance/1-injecting_grease_after_replacing_grease_or_replacing_the_reducer/7-the_inlet_and_outlet_of_the_reducer_of_s_axis.md",
+		"char_ofs": 89769,
+		"byte_ofs": 134649
+	},
+	{
+		"link": "5-maintenance/1-injecting_grease_after_replacing_grease_or_replacing_the_reducer/8-the_inlet_and_outlet_of_the_reducer_of_the_h_axis.md",
+		"char_ofs": 89889,
+		"byte_ofs": 134852
+	},
+	{
+		"link": "5-maintenance/1-injecting_grease_after_replacing_grease_or_replacing_the_reducer/9-the_inlet_and_outlet_of_the_reducer_of_the_v_axis.md",
+		"char_ofs": 89992,
+		"byte_ofs": 135038
+	},
+	{
+		"link": "5-maintenance/1-injecting_grease_after_replacing_grease_or_replacing_the_reducer/10-the-inlet_and_outlet_of_the_reducer_of_the_r2_axis.md",
+		"char_ofs": 90095,
+		"byte_ofs": 135224
+	},
+	{
+		"link": "5-maintenance/1-injecting_grease_after_replacing_grease_or_replacing_the_reducer/11-the_inlet_and_outlet_of_the_reducer_of_the_b_axis.md",
+		"char_ofs": 90200,
+		"byte_ofs": 135412
+	},
+	{
+		"link": "5-maintenance/1-injecting_grease_after_replacing_grease_or_replacing_the_reducer/12-the-inlet_and_outlet_of_the_reducer_of_the_r1_axis.md",
+		"char_ofs": 90306,
+		"byte_ofs": 135601
+	},
+	{
+		"link": "5-maintenance/1-injecting_grease_after_replacing_grease_or_replacing_the_reducer/13-inlet_and_outlet_of_the_gearbox_of_the_arm_frame.md",
+		"char_ofs": 90676,
+		"byte_ofs": 136172
+	},
+	{
+		"link": "5-maintenance/1-injecting_grease_after_replacing_grease_or_replacing_the_reducer/14-inlet_of_the_gas-spring-bearing.md",
+		"char_ofs": 90797,
+		"byte_ofs": 136360
+	},
+	{
+		"link": "5-maintenance/2-replacing-the-battery.md",
+		"char_ofs": 91454,
+		"byte_ofs": 137393
+	},
+	{
+		"link": "5-maintenance/3-replacement-of-wiring-inside-the-manipulator.md",
+		"char_ofs": 92587,
+		"byte_ofs": 139265
+	},
+	{
+		"link": "6-troubleshooting/README.md",
+		"char_ofs": 93238,
+		"byte_ofs": 140503
+	},
+	{
+		"link": "6-troubleshooting/1-how-to-investigate-the-causes-of-issues.md",
+		"char_ofs": 93258,
+		"byte_ofs": 140544
+	},
+	{
+		"link": "6-troubleshooting/2-symptoms-and-causes-of-issues.md",
+		"char_ofs": 93939,
+		"byte_ofs": 142031
+	},
+	{
+		"link": "6-troubleshooting/3-how-to-investigate-and-handle-each-part/README.md",
+		"char_ofs": 97762,
+		"byte_ofs": 146809
+	},
+	{
+		"link": "6-troubleshooting/3-how-to-investigate-and-handle-each-part/1-reducers.md",
+		"char_ofs": 98245,
+		"byte_ofs": 147693
+	},
+	{
+		"link": "6-troubleshooting/3-how-to-investigate-and-handle-each-part/2-brake.md",
+		"char_ofs": 98958,
+		"byte_ofs": 149327
+	},
+	{
+		"link": "6-troubleshooting/3-how-to-investigate-and-handle-each-part/3-motor.md",
+		"char_ofs": 99593,
+		"byte_ofs": 150713
+	},
+	{
+		"link": "6-troubleshooting/3-how-to-investigate-and-handle-each-part/4-encoder.md",
+		"char_ofs": 99950,
+		"byte_ofs": 151497
+	},
+	{
+		"link": "6-troubleshooting/3-how-to-investigate-and-handle-each-part/5-gas_spring.md",
+		"char_ofs": 100338,
+		"byte_ofs": 152377
+	},
+	{
+		"link": "6-troubleshooting/4-motor-replacement/README.md",
+		"char_ofs": 101520,
+		"byte_ofs": 154820
+	},
+	{
+		"link": "6-troubleshooting/4-motor-replacement/1-necessary-tools-and-parts.md",
+		"char_ofs": 103420,
+		"byte_ofs": 157301
+	},
+	{
+		"link": "6-troubleshooting/4-motor-replacement/2-how-to-replace-the-motor.md",
+		"char_ofs": 105818,
+		"byte_ofs": 159995
+	},
+	{
+		"link": "6-troubleshooting/5-setting-the-encoder-origin/README.md",
+		"char_ofs": 108235,
+		"byte_ofs": 164253
+	},
+	{
+		"link": "6-troubleshooting/5-setting-the-encoder-origin/1-setting-the-origin.md",
+		"char_ofs": 108632,
+		"byte_ofs": 165157
+	},
+	{
+		"link": "6-troubleshooting/5-setting-the-encoder-origin/2-encoder-reset.md",
+		"char_ofs": 109108,
+		"byte_ofs": 166056
+	},
+	{
+		"link": "6-troubleshooting/5-setting-the-encoder-origin/3-encoder-compensation-and-selection.md",
+		"char_ofs": 109508,
+		"byte_ofs": 166721
+	},
+	{
+		"link": "7-recommended-spare-parts/README.md",
+		"char_ofs": 111227,
+		"byte_ofs": 169029
+	},
+	{
+		"link": "8-dismantle/README.md",
+		"char_ofs": 128104,
+		"byte_ofs": 186749
+	},
+	{
+		"link": "8-dismantle/1-material-for-each-part.md",
+		"char_ofs": 128112,
+		"byte_ofs": 186764
+	},
+	{
+		"link": "8-dismantle/2-disposal-of-the-gas-spring/README.md",
+		"char_ofs": 129715,
+		"byte_ofs": 188530
+	},
+	{
+		"link": "8-dismantle/2-disposal-of-the-gas-spring/1-separation-of-the-gas-spring.md",
+		"char_ofs": 129828,
+		"byte_ofs": 188798
+	},
+	{
+		"link": "8-dismantle/2-disposal-of-the-gas-spring/2-disposal-of-the-gas-spring.md",
+		"char_ofs": 131826,
+		"byte_ofs": 191635
+	},
+	{
+		"link": "9-maintenance-of-the-gas-spring/README.md",
+		"char_ofs": 132032,
+		"byte_ofs": 192122
+	},
+	{
+		"link": "9-maintenance-of-the-gas-spring/1-checking-of-the-pressure-of-the-gas-spring.md",
+		"char_ofs": 133524,
+		"byte_ofs": 195353
+	},
+	{
+		"link": "9-maintenance-of-the-gas-spring/2-replenishing-of-the-gas-of-the-gas-spring/README.md",
+		"char_ofs": 136136,
+		"byte_ofs": 198791
+	},
+	{
+		"link": "9-maintenance-of-the-gas-spring/2-replenishing-of-the-gas-of-the-gas-spring/1-when-the-pressure-of-the-nitrogen-gas-bombe-exceeds-150-bar.md",
+		"char_ofs": 136691,
+		"byte_ofs": 199871
+	},
+	{
+		"link": "9-maintenance-of-the-gas-spring/2-replenishing-of-the-gas-of-the-gas-spring/2-when-the-pressure-of-the-nitrogen-gas-bombe-is-150-bar-or-below.md",
+		"char_ofs": 138956,
+		"byte_ofs": 203933
+	},
+	{
+		"link": "9-maintenance-of-the-gas-spring/3-releasing-of-the-gas-of-the-gas-spring.md",
+		"char_ofs": 141503,
+		"byte_ofs": 208467
+	},
+	{
+		"link": "9-maintenance-of-the-gas-spring/4-replacing-the-gas-spring/README.md",
+		"char_ofs": 142766,
+		"byte_ofs": 210698
+	},
+	{
+		"link": "9-maintenance-of-the-gas-spring/4-replacing-the-gas-spring/1-separating-the-gas-spring.md",
+		"char_ofs": 142844,
+		"byte_ofs": 210863
+	},
+	{
+		"link": "9-maintenance-of-the-gas-spring/4-replacing-the-gas-spring/2-assembling-the-gas-spring.md",
+		"char_ofs": 144247,
+		"byte_ofs": 212967
+	},
+	{
+		"link": "9-maintenance-of-the-gas-spring/4-replacing-the-gas-spring/3-technical-data-of-the-gas-spring.md",
+		"char_ofs": 146134,
+		"byte_ofs": 215511
+	},
+	{
+		"link": "9-maintenance-of-the-gas-spring/4-replacing-the-gas-spring/4-parts-for-gas-spring-pressure-measuring-and-gas-charging.md",
+		"char_ofs": 148356,
+		"byte_ofs": 218042
+	},
+	{
+		"link": "9-maintenance-of-the-gas-spring/4-replacing-the-gas-spring/5-gas-spring-protection-cover.md",
+		"char_ofs": 151521,
+		"byte_ofs": 221590
+	},
+	{
+		"link": "10-diagram-for-the-connection-of-wirings-inside-the-manipulator/README.md",
+		"char_ofs": 153670,
+		"byte_ofs": 224025
+	}
+]
