@@ -16,7 +16,7 @@
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-wa1i{font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-jafi{background-color:#f8f8be;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-jafi{background-color:#f8f8be;color:#000000;font-weight:bold;text-align:center;vertical-align:middle}
 .tg .tg-nrix{text-align:center;vertical-align:middle}
 </style>
 <table class="tg">
@@ -51,7 +51,7 @@
 <table>
 <thead>
   <tr>
-    <td><img src="../../_assets/주의표시.png" width = 65 height = 40> </td>
+    <td><img src="../../_assets/주의표시.png" width = 60 height = 60> </td>
     <td colspan="4"><b>주의사항</b><br>
     모터 교환 후, 엔코더 DATA 보정을 행하는 경우, 일단 전원 준비를 『ON』상태로 해서 모터에 전원이 들어가는지를 확인해 주십시오.</td>
   </tr>

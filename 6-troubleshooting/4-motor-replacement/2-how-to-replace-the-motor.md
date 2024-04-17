@@ -4,7 +4,7 @@
 <table border="0">
 <thead>
   <tr>
-    <td><img src="../../_assets/주의표시.png" width = 110 height = 40> </td>
+    <td><img src="../../_assets/주의표시.png" width = 60 height = 60> </td>
     <td colspan="4">본 로봇은 암의 자세 유지용 브레이크가 모터에 내장되어 있으므로 모터를 분리하면 암이 낙하합니다. 따라서 낙하를 방지하기 위해 크레인 등으로 암을 매달고, 고정용 볼트를 삽입하여 1암과 2암을 고정시키는 안전대책을 반드시 행해야 합니다.</td>
   </tr>
 </thead>
@@ -45,7 +45,7 @@
 <table>
 <thead>
   <tr>
-    <td><img src="../../_assets/주의표시.png" width = 70 height = 40> </td>
+    <td><img src="../../_assets/주의표시.png" width = 40 height = 40> </td>
     <td colspan="4">엔코더 보정을 하기 전에, 일단 운전준비 [ON]으로 해서, 티치펜던트의 Enable 스위치를 2∼3초간 누르면서 전원이 들어가는지 확인합니다.</td>
   </tr>
 </thead>
@@ -85,7 +85,7 @@
 <table border="0">
 <thead>
   <tr>
-    <td><img src="../../_assets/주의표시.png" width = 80 height = 40> </td>
+    <td><img src="../../_assets/주의표시.png" width = 40 height = 40> </td>
     <td colspan="4">V축 모터 교체 시 상부암 전체를 기계적 스토퍼(Stopper)에 중력방향으로 정확하게 밀착시키지 않으면 모터를 분리하면서 상부암이 회전할 수 있습니다.</td>
   </tr>
 </thead>

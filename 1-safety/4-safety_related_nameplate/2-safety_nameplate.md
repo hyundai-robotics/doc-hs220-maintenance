@@ -10,7 +10,7 @@
 <table border="0">
 <thead>
   <tr>
-    <td> <img src="../../_assets/금지표시.png" width = 80 height = 40> </td>
+    <td> <img src="../../_assets/금지표시.png" width = 40 height = 40> </td>
     <td colspan="4"> 로봇 본체 및 제어기에서 분명하게 보이는 명판, 경고 표시, 안전 기호, 명칭 표시물, 전선 마크(Mark) 등을 옮기거나 커버를 씌우거나 페인트칠 등으로 손상을 주는 일체의 행위를 금합니다.</td>
   </tr>
 </thead>

@@ -15,7 +15,7 @@
 <table border="0">
 <thead>
   <tr>
-    <td> <img src="../_assets/주의표시.png" width = 55 height = 40> </td>
+    <td> <img src="../_assets/주의표시.png" width = 60 height = 60> </td>
     <td colspan="4">
    -	배선에는 내굴곡성이 있는 것을 사용하고 있으므로 지정한 전선 이외는 절대로 사용하지 않도록 하십시오.<p>
    -	배선의 교환은 유니트(Unit) 단위로 하십시오.<p>

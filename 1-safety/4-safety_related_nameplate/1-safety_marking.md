@@ -11,13 +11,13 @@
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-osmi{background-color:#f8f8be;border-color:inherit;text-align:center;vertical-align:middle}
-.tg .tg-bav5{background-color:#f8f8be;text-align:center;vertical-align:middle}
+.tg .tg-osmi{background-color:#f8f8be;border-color:inherit;color:#000000;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-bav5{background-color:#f8f8be;color:#000000;font-weight:bold;text-align:center;vertical-align:middle}
 .tg .tg-nrix{text-align:center;vertical-align:middle}
 .tg .tg-0lax{text-align:left;vertical-align:middle}
 </style>
 <table class="tg">
-<caption>표1-1 안전기호</caption>
+<caption> 표 1-1 안전기호</caption>
 <thead>
   <tr>
     <th class="tg-osmi" colspan="2">기호</th>
@@ -37,8 +37,9 @@
   </tr>
   <tr>
     <td class="tg-nrix">금지</td>
-    <td class="tg-nrix"><img src="../../_assets/금지표시.png" width = 80 height = 40></td>
+    <td class="tg-nrix"><img src="../../_assets/금지표시.png" width = 50 height = 40></td>
     <td class="tg-0lax">절대로 해서는 안 되는 것을 나타냅니다.</td>
   </tr>
 </tbody>
 </table>
+

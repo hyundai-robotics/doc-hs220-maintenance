@@ -54,7 +54,7 @@
 <table border="0">
 <thead>
   <tr>
-    <td> <img src="../../_assets/주의표시.png" width = 100 height = 40> </td>
+    <td> <img src="../../_assets/주의표시.png" width = 80 height = 80> </td>
     <td colspan="4">
     
 -	가스 스프링의 분리 및 조립 시 그림 9.7 HINGE의 볼트는 HINGE가 과다 기울임 발생되지 않도록, 상/하측 볼트를 번갈아 가며 볼트를 45도 이하로 회전 하여 체결 혹은 풀기 하여 주십시오.

@@ -8,7 +8,7 @@
 <table border="0">
 <thead>
   <tr>
-    <td><img src="../_assets/주의표시.png" width = 140 height = 40> </td>
+    <td><img src="../_assets/주의표시.png" width = 120 height = 120> </td>
     <td colspan="4">
 
 -	질소 가스 충전은 고압이므로, 해당 국가의 안전 규정을 준수하여 주십시오.

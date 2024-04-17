@@ -90,7 +90,7 @@ G1/8 PLUG를 가스 스프링에 체결합니다.
 <table border="0">
 <thead>
   <tr>
-    <td> <img src="../../_assets/주의표시.png" width = 60 height = 40> </td>
+    <td> <img src="../../_assets/주의표시.png" width = 40 height = 40> </td>
     <td colspan="4">Gas 보충 KIT및 부스터는 유형에 따라 형상 및 명칭이 다를 수 있으므로, 구매 시 동봉된 매뉴얼을 참조하여 주십시오.
 </td>
   </tr>

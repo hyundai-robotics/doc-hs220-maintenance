@@ -17,8 +17,8 @@
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-t1e1{background-color:#ccf1bc;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-1e26{background-color:#f8f8be;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-t1e1{background-color:#ccf1bc;color:#000000; font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-1e26{background-color:#f8f8be;color:#000000; font-weight:bold;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-baqh{text-align:center;vertical-align:top}
 </style>
 <table class="tg">
