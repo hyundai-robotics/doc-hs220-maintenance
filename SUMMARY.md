@@ -1,4 +1,4 @@
-# Table of contents
+﻿# Table of contents
 
 * [HS220 보수설명서](README.md)
 * [1. 안전](1-safety/README.md)
@@ -36,7 +36,7 @@
     * [1.11.1. 그리퍼(Gripper)](1-safety/11-safety_related_to_end_effectors/1-gripper.md)
     * [1.11.2. 툴(Tool) / 작업물](1-safety/11-safety_related_to_end_effectors/2-tool_workpiece.md)
     * [1.11.3. 공압 / 수압 시스템](1-safety/11-safety_related_to_end_effectors/3-pneumatic_and_hydraulic_systems.md)
-   * [1.12. 책임](1-safety/12-liablilities.md)
+    * [1.12. 책임](1-safety/12-liablilities.md)
 
 * [2. 사양](2-specifications/README.md)
   * [2.1. 로봇 기구부 형식](2-specifications/1-format_for_the_robot_mechanical_part.md)
