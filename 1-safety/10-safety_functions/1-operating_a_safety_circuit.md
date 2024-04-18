@@ -21,7 +21,11 @@
 <table border="0">
     <thead>
         <tr>
-            <td> <img src="../../_assets/주의표시.png" width = 40 height = 40> </td>
+            <td>
+            <div align="center">
+              <img src="../../_assets/주의표시.png" width = 40 height = 40>
+            </div>
+            </td> 
             <td colspan="4"> 
                 안전 전기회로는 어떠한 방법으로든 결코 무시하거나, 수정, 변경되지 않도록 하십시오.
             </td>

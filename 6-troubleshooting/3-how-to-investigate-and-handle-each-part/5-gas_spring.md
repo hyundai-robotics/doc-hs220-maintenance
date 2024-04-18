@@ -39,7 +39,11 @@ Gas 스프링 점검 전 반드시 제어기 및 외부 전원이 『OFF』 상�
 <table border="0">
 <thead>
   <tr>
-    <td><img src="../../_assets/주의표시.png" width = 45 height = 40> </td>
+    <td>
+    <div align="center">
+      <img src="../../_assets/주의표시.png" width = 45 height = 40>
+    </div>
+    </td>
     <td colspan="4">
     - 축 낙하가 발생하지 않도록 가스 스프링의 적절 사용 압력을 준수하여 주십시오.<p>
     - 베어링이 조기 파손되지 않도록 베어링부에 주기적인 급유를 하여 주십시오.

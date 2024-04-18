@@ -9,7 +9,11 @@
 <table border="0">
 <thead>
   <tr>
-    <td> <img src="../../_assets/주의표시.png" width = 40 height = 40> </td>
+    <td>
+    <div align="center">
+      <img src="../../_assets/주의표시.png" width = 40 height = 40>
+    </div>
+    </td>  
     <td colspan="4">그리스를 과도하게 주입하지 마십시오. 과도한 그리스는 내압 증가로 인한 그리스 누유와 로봇의 비정상적인 작동을 유발할 수 있습니다.</td>
   </tr>
 </thead>

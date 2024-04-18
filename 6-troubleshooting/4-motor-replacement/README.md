@@ -53,7 +53,11 @@
 <table border="0">
 <thead>
   <tr>
-    <td><img src="../../_assets/주의표시.png" width = 60 height = 60> </td>
+    <td>
+    <div align="center">
+      <img src="../../_assets/주의표시.png" width = 60 height = 60>
+    </div>
+    </td>
     <td colspan="4">이 작업은 운전 준비 [ON] 상태에서 시행할 부분이 있습니다. 그러므로 2인 1조로 작업을 실시하며 한 사람은 언제라도 비상정지 버턴을 누를 자세를 취하고, 다른 한 사람은 로봇의 동작에 특히 주의하면서 신속하게 작업을 하십시오. 또한, 작업 전에는 미리 위험을 벗어날 장소를 확인하여 주십시오.
 </td>
   </tr>

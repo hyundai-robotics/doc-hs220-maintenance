@@ -4,7 +4,11 @@
 <table border="0">
     <thead>
         <tr>
-            <td> <img src="../../_assets/강제표시.png" width = 40 height = 40> </td>
+            <td>
+            <div align="center">
+              <img src="../../_assets/강제표시.png" width = 40 height = 40>
+            </div>
+            </td> 
             <td colspan="4"> 
                 보수, 점검 후에는 다음의 조치사항을 따라 주십시오.
             </td>

@@ -4,7 +4,11 @@
 <table border="0">
 <thead>
   <tr>
-    <td> <img src="../../_assets/주의표시.png" width = 40 height = 40> </td>
+    <td>
+    <div align="center">
+      <img src="../../_assets/주의표시.png" width = 40 height = 40>
+    </div>  
+    </td>
     <td colspan="4">그리스 주입을 올바르게 하지 않으면, 갑작스런 내부압력 증가로 오일씰의 손상, 누유 및 비정상적인 동작을 유발할 수 있습니다. 사양이 다른 그리스로 교환 시 이상음이 발생할 수 있으므로 혼유되지 않도록 주의하여 주십시오. 그리스 주유 시 다음 사항을 반드시 준수하십시오.</td>
   </tr>
 </thead>

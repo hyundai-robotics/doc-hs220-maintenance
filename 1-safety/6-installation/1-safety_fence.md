@@ -4,7 +4,11 @@
 <table border="0">
     <thead>
         <tr>
-            <td> <img src="../../_assets/강제표시.png" width = 40 height = 40> </td>
+            <td>
+            <div align="center">
+              <img src="../../_assets/강제표시.png" width = 40 height = 40>
+            </div>
+            </td>
             <td colspan="4"> 로봇 동작 시 로봇과 작업자가 충돌할 위험이 있기 때문에 작업자가 로봇과 가까이 하지 않도록 안전망을 설치하여 주십시오.</td>
         </tr>
     </thead>

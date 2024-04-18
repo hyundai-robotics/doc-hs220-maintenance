@@ -51,7 +51,11 @@
 <table>
 <thead>
   <tr>
-    <td><img src="../../_assets/주의표시.png" width = 60 height = 60> </td>
+    <td>
+    <div align="center">
+      <img src="../../_assets/주의표시.png" width = 60 height = 60>
+    </div>
+    </td>
     <td colspan="4"><b>주의사항</b><br>
     모터 교환 후, 엔코더 DATA 보정을 행하는 경우, 일단 전원 준비를 『ON』상태로 해서 모터에 전원이 들어가는지를 확인해 주십시오.</td>
   </tr>

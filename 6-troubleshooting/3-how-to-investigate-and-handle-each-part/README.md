@@ -3,7 +3,11 @@
 <table>
 <thead>
   <tr>
-    <td><img src="../../_assets/주의표시.png" width = 60 height = 60> </td>
+    <td>
+    <div align="center">
+      <img src="../../_assets/주의표시.png" width = 60 height = 60>
+    </div>
+    </td>
     <td colspan="4">
 
 -	H축, V축의 모터 및 감속기 교체 시, 브레이크 해제 스위치를 “ON”, “OFF” 시 암(Arm)이 낙하하지 않도록 반드시 작업 전에 낙하방지 볼트 혹은 핀(Pin)으로 고정하여 주십시오.

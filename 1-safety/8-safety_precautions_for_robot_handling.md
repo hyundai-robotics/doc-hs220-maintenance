@@ -4,7 +4,11 @@
 <table border="0">
     <thead>
         <tr>
-            <td> <img src="../_assets/주의표시.png" width = 40 height = 40> </td>
+            <td>
+            <div align="center">
+              <img src="../_assets/주의표시.png" width = 40 height = 40>
+            </div>
+            </td> 
             <td colspan="4"> 
                 안전 망 내 진입 시에는 안전이 매우 중요하게 되므로 다음의 대책을 따라 주십시오.
             </td>

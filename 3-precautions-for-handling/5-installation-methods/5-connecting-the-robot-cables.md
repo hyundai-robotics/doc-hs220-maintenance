@@ -12,7 +12,11 @@
 <table border="0">
 <thead>
   <tr>
-    <td> <img src="../../_assets/주의표시.png" width = 45 height = 40> </td>
+    <td>
+    <div align="center">
+      <img src="../../_assets/주의표시.png" width = 45 height = 40>
+    </div>
+    </td> 
     <td colspan="4"> Cable 연결 시 제어기 전원은 반드시 Off하여 주십시오.</td>
   </tr>
 </thead>

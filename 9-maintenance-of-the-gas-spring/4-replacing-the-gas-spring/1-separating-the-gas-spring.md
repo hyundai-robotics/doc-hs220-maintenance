@@ -35,7 +35,11 @@
 <table border="0">
 <thead>
   <tr>
-    <td> <img src="../../_assets/금지표시.png" width = 170 height = 40> </td>
+    <td>
+    <div align="center">
+      <img src="../../_assets/금지표시.png" width = 170 height = 40>
+    </div>
+    </td>
     <td colspan="4">
     - 가스 스프링을 절대 분리하면 안 되는 자세 : H축 90˚ 이외의 각도<p>
 (H축90˚ 이외의 자세에서는 가스스프링의 압축력이 과다하여 

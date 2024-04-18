@@ -8,7 +8,11 @@ Gas 스프링의 Gas 배출은 다음과 같은 경우에 이루어집니다.
 <table border="0">
 <thead>
   <tr>
-    <td><img src="../_assets/주의표시.png" width = 40 height = 40> </td>
+    <td>
+    <div align="center">
+      <img src="../_assets/주의표시.png" width = 40 height = 40>
+    </div>
+    </td>
     <td colspan="4">Gas 배출이 급격하게 이루어지는 경우, 스프링 내부의 유색 Oil 등이 분출될 수 있습니다. 보안경을 착용하시고, 배출이 천천히 이루어지도록 하여 주십시오.</td>
   </tr>
 </thead>

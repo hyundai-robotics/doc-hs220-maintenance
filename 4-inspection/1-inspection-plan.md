@@ -9,38 +9,39 @@
 
 
 <br>
-표 4-1 점검 계획 
+표 4-1 점검 계획
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-wa1i{font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-jafi{background-color:#f8f8be;color:#000000; font-weight:bold;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-nrix{text-align:center;vertical-align:middle}
+.tg .tg-9wq8{border-color:inherit;text-align:center;vertical-align:middle}
+.tg .tg-c3xd{background-color:#f8f8be;border-color:inherit;color:#000000;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-uzvj{border-color:inherit;font-weight:bold;text-align:center;vertical-align:middle}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-jafi">일상점검</th>
-    <th class="tg-wa1i">일상</th>
-    <th class="tg-nrix">본체, 모터, 감속기, 가스스프링</th>
+    <th class="tg-c3xd">일상점검</th>
+    <th class="tg-uzvj">일상</th>
+    <th class="tg-9wq8">본체, 모터, 감속기, 가스스프링</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-jafi" rowspan="3">정기점검</td>
-    <td class="tg-wa1i">3개월</td>
-    <td class="tg-nrix">배선, 볼트, 감속기</td>
+    <td class="tg-c3xd" rowspan="3">정기점검</td>
+    <td class="tg-uzvj">3개월</td>
+    <td class="tg-9wq8">배선, 볼트, 감속기</td>
   </tr>
   <tr>
-    <td class="tg-wa1i">6개월</td>
-    <td class="tg-nrix">가스스프링, 가스스프링 베어링</td>
+    <td class="tg-uzvj">6개월</td>
+    <td class="tg-9wq8">가스스프링, 가스스프링 베어링</td>
   </tr>
   <tr>
-    <td class="tg-wa1i">1년</td>
-    <td class="tg-nrix">리미트스위치/도그, 브레이크</td>
+    <td class="tg-uzvj">1년</td>
+    <td class="tg-9wq8">리미트스위치/도그, 브레이크</td>
   </tr>
 </tbody>
 </table>

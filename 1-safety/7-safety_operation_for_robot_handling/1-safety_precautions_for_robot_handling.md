@@ -4,7 +4,11 @@
 <table border="0">
     <thead>
         <tr>
-            <td> <img src="../../_assets/강제표시.png" width = 40 height = 40> </td>
+            <td>
+            <div align="center">
+              <img src="../../_assets/강제표시.png" width = 40 height = 40>
+            <div>
+            </td> 
             <td colspan="4"> 
                 로봇 조작 시 안전은 매우 중요하므로 다음의 대책을 따라 주십시오.
             </td>

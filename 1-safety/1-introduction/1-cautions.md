@@ -4,7 +4,11 @@
 <table border="0">
 <thead>
   <tr>
-    <td> <img src="../../_assets/강제표시.png" width = 40 height = 40> </td>
+    <td>
+    <div align="center">
+      <img src="../../_assets/강제표시.png" width = 40 height = 40>
+    </div>
+    </td>
     <td colspan="4">로봇의 운반, 설치, 조작 시 다음 사항을 반드시 준수하여 주십시오.</td>
   </tr>
 </thead>

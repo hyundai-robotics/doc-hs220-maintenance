@@ -3,7 +3,11 @@
 <table>
 <thead>
   <tr>
-    <td><img src="../_assets/주의표시.png" width = 40 height = 40> </td>
+    <td>
+    <div align="center">
+      <img src="../_assets/주의표시.png" width = 40 height = 40> 
+    </div>
+    </td>
     <td colspan="4">권장볼트 토크는 아래 그림에 표시되어 있습니다.<br>반드시 토크 렌치를 사용하여 적정 토크로 체결한 후 페인트 마킹을 하여 주십시오.<br>볼트는 12.9T (강도 등급)을 사용하여 주십시오.</td>
   </tr>
 </thead>

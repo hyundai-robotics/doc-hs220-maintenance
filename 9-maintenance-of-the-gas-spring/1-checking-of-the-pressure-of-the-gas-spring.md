@@ -86,7 +86,11 @@ Pressure Tester 의 노브 N을 시계 반대 방향으로 돌려 분리하고, 
 <table border="0">
 <thead>
   <tr>
-    <td> <img src="../_assets/주의표시.png" width = 50 height = 40> </td>
+    <td>
+    <div align="center">
+      <img src="../_assets/주의표시.png" width = 50 height = 40> 
+    </div>
+    </td>
     <td colspan="4">Gas 압력 측정 시마다 약 0.5 bar의 감압이 발생합니다.<br>
 Cross Pressure Tester(Pressure Tester = Armature)는 유형에 따라 명칭 및 핸들의 위치가 다를 수 있습니다.</td>
   </tr>

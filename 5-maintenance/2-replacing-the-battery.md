@@ -11,7 +11,11 @@
 <table border="0">
 <thead>
   <tr>
-    <td> <img src="../_assets/주의표시.png" width = 40 height = 40> </td>
+    <td>
+    <div align="center">
+      <img src="../_assets/주의표시.png" width = 40 height = 40>
+    </div>
+    </td>   
     <td colspan="4">전원을 끄고 배터리를 교환하면, 현재의 모든 위치 데이터를 잃어버리게 됩니다. 따라서 원점 설정을 다시 해야 합니다.</td>
   </tr>
 </thead>
@@ -44,7 +48,11 @@
 <table border="0">
 <thead>
   <tr>
-    <td> <img src="../_assets/주의표시.png" width = 80 height = 80> </td>
+    <td>
+    <div align="center">
+      <img src="../_assets/주의표시.png" width = 80 height = 80>
+    </div>
+    </td> 
     <td colspan="4">
 -	배터리를 버리지 마십시오. 해당 나라의 법이나 규율에 따라 산업용 폐기물로 취급 하십시오.<p>
 -	배터리를 충전하지 마십시오. 폭발이나 과열을 일으킬 수 있습니다.<p>

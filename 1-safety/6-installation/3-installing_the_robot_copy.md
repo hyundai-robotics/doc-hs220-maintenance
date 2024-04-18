@@ -4,7 +4,11 @@
 <table border="0">
     <thead>
         <tr>
-            <td> <img src="../../_assets/강제표시.png" width = 40 height = 40> </td>
+            <td>
+            <div align="center">
+              <img src="../../_assets/강제표시.png" width = 40 height = 40>
+            </div>
+            </td> 
             <td colspan="4"> 반드시 다음과 같은 방법에 의해 로봇과 주변기기들을 배치하여 주십시오.</td>
         </tr>
     </thead>

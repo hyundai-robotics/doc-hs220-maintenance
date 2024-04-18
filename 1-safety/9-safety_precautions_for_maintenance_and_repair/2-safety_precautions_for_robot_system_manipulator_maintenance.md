@@ -4,7 +4,11 @@
 <table border="0">
     <thead>
         <tr>
-            <td> <img src="../../_assets/강제표시.png" width = 40 height = 40> </td>
+            <td>
+            <div align="center">
+              <img src="../../_assets/강제표시.png" width = 40 height = 40>
+            </div>
+            </td> 
             <td colspan="4"> 
                 로봇시스템, 로봇본체의 보수, 점검 시 다음의 안전대책을 따라 주십시오.
             </td>
