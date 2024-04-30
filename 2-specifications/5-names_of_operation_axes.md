@@ -12,7 +12,7 @@
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-jx5t{background-color:#f8f8be;border-color:inherit;color:#000000;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-dq1w{background-color:#CCF1BC;border-color:inherit;color:#212529;text-align:center;vertical-align:top}
-.tg .tg-ew0z{border-color:inherit;color:#212529;text-align:center;vertical-align:top}
+.tg .tg-ew0z{border-color:inherit;text-align:center;vertical-align:middle}
 </style>
 <table class="tg">
 <thead>
