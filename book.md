@@ -1,4 +1,20 @@
-﻿# 1. 안전
+﻿# HS180 / HS220 / HS160L 보수설명서
+
+{% hint style="warning" %}
+
+본 제품 설명서에서 제공되는 정보는 현대로보틱스의 자산입니다.
+
+현대로보틱스의 서면에 의한 동의 없이 전부 또는 일부를 무단 전재 및 재배포할 수 없으며,
+제3자에게 제공되거나 다른 목적에 사용할 수 없습니다.
+
+본 설명서는 사전 예고 없이 변경될 수 있습니다.
+
+
+
+**Copyright ⓒ 2023 by Hyundai Robotics**
+
+{% endhint %}
+# 1. 안전
 # 1.1. 서론
 
 본 장의 주된 목적은 산업용 로봇의 사용자와 보수, 조작하는 작업자의 안전에 대한 사항을 기술하는 것입니다.
@@ -21,7 +37,11 @@
 <table border="0">
 <thead>
   <tr>
-    <td> <img src="../../_assets/강제표시.png" width = 40 height = 40> </td>
+    <td>
+    <div align="center">
+      <img src="../../_assets/강제표시.png" width = 40 height = 40>
+    </div>
+    </td>
     <td colspan="4">로봇의 운반, 설치, 조작 시 다음 사항을 반드시 준수하여 주십시오.</td>
   </tr>
 </thead>
@@ -57,7 +77,7 @@
 로봇의 응용분야 및 사용할 수 없는 환경은 아래와 같습니다.
 
 
-![](../../_assets/말머리이미지.png ) 응용분야
+![](../../_assets/말머리이미지.png )  <font size = 3> **응용분야** </font><br>
 
 평면 또는 벽면에 설치하여 사용하는 산업용 로봇에 적용합니다(축 추가 가능). 또한 점 구간 또는 연속구간에서 제어하는 작업을 하기에 알맞습니다.
 
@@ -102,13 +122,13 @@
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-osmi{background-color:#f8f8be;border-color:inherit;text-align:center;vertical-align:middle}
-.tg .tg-bav5{background-color:#f8f8be;text-align:center;vertical-align:middle}
+.tg .tg-osmi{background-color:#f8f8be;color:#000000;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-bav5{background-color:#f8f8be;color:#000000;font-weight:bold;text-align:center;vertical-align:middle}
 .tg .tg-nrix{text-align:center;vertical-align:middle}
 .tg .tg-0lax{text-align:left;vertical-align:middle}
 </style>
 <table class="tg">
-<caption>표1-1 안전기호</caption>
+<caption> 표 1-1 안전기호</caption>
 <thead>
   <tr>
     <th class="tg-osmi" colspan="2">기호</th>
@@ -128,11 +148,13 @@
   </tr>
   <tr>
     <td class="tg-nrix">금지</td>
-    <td class="tg-nrix"><img src="../../_assets/금지표시.png" width = 80 height = 40></td>
+    <td class="tg-nrix"><img src="../../_assets/금지표시.png" width = 50 height = 40></td>
     <td class="tg-0lax">절대로 해서는 안 되는 것을 나타냅니다.</td>
   </tr>
 </tbody>
-</table># 1.4.2. 안전명판
+</table>
+
+# 1.4.2. 안전명판
 
 명판, 경고 표시, 안전 기호는 로봇과 제어반 내, 외부에 부착되어 있습니다. 로봇과 제어반 사이의 와이어하니스(wire harness)와 로봇, 제어기 내, 외에 있는 케이블(cable)에 대하여 명칭 표시물 및 전선 마크(mark)가 제공되어 있습니다.
 
@@ -144,7 +166,11 @@
 <table border="0">
 <thead>
   <tr>
-    <td> <img src="../../_assets/금지표시.png" width = 80 height = 40> </td>
+    <td>
+    <div align="center">
+      <img src="../../_assets/금지표시.png" width = 40 height = 40> 
+    </div>
+    </td>
     <td colspan="4"> 로봇 본체 및 제어기에서 분명하게 보이는 명판, 경고 표시, 안전 기호, 명칭 표시물, 전선 마크(Mark) 등을 옮기거나 커버를 씌우거나 페인트칠 등으로 손상을 주는 일체의 행위를 금합니다.</td>
   </tr>
 </thead>
@@ -170,7 +196,11 @@
 <table border="0">
     <thead>
         <tr>
-            <td> <img src="../../_assets/강제표시.png" width = 45 height = 35> </td>
+            <td>
+            <div align="center">
+              <img src="../../_assets/강제표시.png" width = 40 height = 40>
+            </div>
+            </td>
             <td colspan="4"> 로봇 동작 시 로봇과 작업자가 충돌할 위험이 있기 때문에 작업자가 로봇과 가까이 하지 않도록 안전망을 설치하여 주십시오.</td>
         </tr>
     </thead>
@@ -205,7 +235,11 @@
 <table border="0">
     <thead>
         <tr>
-            <td> <img src="../../_assets/강제표시.png" width = 40 height = 40> </td>
+            <td>
+            <div align="center">
+              <img src="../../_assets/강제표시.png" width = 40 height = 40>
+            </div>
+            </td>
             <td colspan="4"> 반드시 다음과 같은 방법에 의해 로봇과 주변기기들을 배치하여 주십시오.</td>
         </tr>
     </thead>
@@ -246,7 +280,11 @@
 <table border="0">
     <thead>
         <tr>
-            <td> <img src="../../_assets/강제표시.png" width = 40 height = 40> </td>
+            <td>
+            <div align="center">
+              <img src="../../_assets/강제표시.png" width = 40 height = 40>
+            </div>
+            </td> 
             <td colspan="4"> 반드시 다음과 같은 방법에 의해 로봇과 주변기기들을 배치하여 주십시오.</td>
         </tr>
     </thead>
@@ -350,7 +388,11 @@
 <table border="0">
     <thead>
         <tr>
-            <td> <img src="../../_assets/강제표시.png" width = 40 height = 40> </td>
+            <td>
+            <div align="center">
+              <img src="../../_assets/강제표시.png" width = 40 height = 40>
+            <div>
+            </td> 
             <td colspan="4"> 
                 로봇 조작 시 안전은 매우 중요하므로 다음의 대책을 따라 주십시오.
             </td>
@@ -449,8 +491,8 @@
                 overflow:hidden;padding:10px 5px;word-break:normal;}
                 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
                 font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-                .tg .tg-osmi{background-color:#f8f8be;border-color:inherit;text-align:center;vertical-align:middle}
-                .tg .tg-bb96{background-color:#ccf1bc;text-align:center;vertical-align:middle}
+                .tg .tg-osmi{background-color:#f8f8be;color:#000000;font-weight:bold;text-align:center;vertical-align:middle}
+                .tg .tg-bb96{background-color:#ccf1bc;color:#000000;text-align:center;vertical-align:middle}
                 .tg .tg-nrix{text-align:center;vertical-align:middle}
             </style>
             <table class="tg">
@@ -517,7 +559,11 @@
 <table border="0">
     <thead>
         <tr>
-            <td> <img src="../../_assets/강제표시.png" width = 40 height = 40> </td>
+            <td>
+            <div align="center">
+              <img src="../../_assets/강제표시.png" width = 40 height = 40>
+            </div>
+            </td> 
             <td colspan="4"> 
                 로봇 시운전시 안전은 매우 중요하므로 다음의 대책을 따라 주십시오.
             </td>
@@ -547,7 +593,11 @@
 <table border="0">
     <thead>
         <tr>
-            <td> <img src="../../_assets/강제표시.png" width = 40 height = 40> </td>
+            <td>
+            <div align="center">
+              <img src="../../_assets/강제표시.png" width = 40 height = 40>
+            </div>
+            </td> 
             <td colspan="4"> 
                 로봇 자동 운전 시 안전은 매우 중요하므로 다음의 대책을 따라 주십시오.
             </td>
@@ -589,7 +639,11 @@
 <table border="0">
     <thead>
         <tr>
-            <td> <img src="../_assets/주의표시.png" width = 40 height = 40> </td>
+            <td>
+            <div align="center">
+              <img src="../_assets/주의표시.png" width = 40 height = 40>
+            </div>
+            </td> 
             <td colspan="4"> 
                 안전 망 내 진입 시에는 안전이 매우 중요하게 되므로 다음의 대책을 따라 주십시오.
             </td>
@@ -646,7 +700,11 @@
 <table border="0">
     <thead>
         <tr>
-            <td> <img src="../../_assets/강제표시.png" width = 40 height = 40> </td>
+            <td>
+            <div align="center">
+              <img src="../../_assets/강제표시.png" width = 40 height = 40>
+            </div>
+            </td>   
             <td colspan="4"> 
                 로봇 제어기 보수, 점검 시 다음의 안전대책을 따라 주십시오.
             </td>
@@ -690,7 +748,11 @@
 <table border="0">
     <thead>
         <tr>
-            <td> <img src="../../_assets/강제표시.png" width = 40 height = 40> </td>
+            <td>
+            <div align="center">
+              <img src="../../_assets/강제표시.png" width = 40 height = 40>
+            </div>
+            </td> 
             <td colspan="4"> 
                 로봇시스템, 로봇본체의 보수, 점검 시 다음의 안전대책을 따라 주십시오.
             </td>
@@ -722,7 +784,11 @@
 <table border="0">
     <thead>
         <tr>
-            <td> <img src="../../_assets/강제표시.png" width = 40 height = 40> </td>
+            <td>
+            <div align="center">
+              <img src="../../_assets/강제표시.png" width = 40 height = 40>
+            </div>
+            </td> 
             <td colspan="4"> 
                 보수, 점검 후에는 다음의 조치사항을 따라 주십시오.
             </td>
@@ -778,7 +844,11 @@
 <table border="0">
     <thead>
         <tr>
-            <td> <img src="../../_assets/주의표시.png" width = 40 height = 40> </td>
+            <td>
+            <div align="center">
+              <img src="../../_assets/주의표시.png" width = 40 height = 40>
+            </div>
+            </td> 
             <td colspan="4"> 
                 안전 전기회로는 어떠한 방법으로든 결코 무시하거나, 수정, 변경되지 않도록 하십시오.
             </td>
@@ -958,9 +1028,9 @@
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-a1tj{background-color:#ccf1bc;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-a1tj{background-color:#ccf1bc;color:#000000;font-weight:bold;text-align:center;vertical-align:middle}
 .tg .tg-wa1i{font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-jafi{background-color:#f8f8be;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-jafi{background-color:#f8f8be;color:#000000;font-weight:bold;text-align:center;vertical-align:middle}
 .tg .tg-nrix{text-align:center;vertical-align:middle}
 </style>
 <table class="tg">
@@ -1149,62 +1219,64 @@
 
 그림 2.4 로봇 본체 외형 치수 및 동작 영역(HS160L)# 2.5. 동작 축 명칭
 
+
+
+표 2-2 각 축의 회전 방향
+
 <style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin-left:auto;margin-right:auto;}
-.tg caption{caption-side: top;text-align: left;}
+.tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-baqh{text-align:center;vertical-align:top}
-.tg .tg-bgl2{background-color:#f8f8be;border-color:inherit;text-align:center;vertical-align:top}
-.tg .tg-jnja{background-color:#ccf1bc;text-align:center;vertical-align:top}
+.tg .tg-jx5t{background-color:#f8f8be;border-color:inherit;color:#000000;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-dq1w{background-color:#CCF1BC;border-color:inherit;color:#212529;text-align:center;vertical-align:top}
+.tg .tg-ew0z{border-color:inherit;text-align:center;vertical-align:middle}
 </style>
 <table class="tg">
-<caption> 표 2-2 각 축의 회전 방향</caption>  
 <thead>
   <tr>
-    <th class="tg-bgl2">축 명칭</th>
-    <th class="tg-bgl2">동작</th>
-    <th class="tg-bgl2" colspan="2">티치팬던트 버튼</th>
+    <th class="tg-jx5t">축 명칭</th>
+    <th class="tg-jx5t">동작</th>
+    <th class="tg-jx5t" colspan="2">티치팬던트 버튼</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-jnja">Axis 1 (S)</td>
-    <td class="tg-baqh">선회</td>
-    <td class="tg-baqh">X+(S+)</td>
-    <td class="tg-baqh">X-(S-)</td>
+    <td class="tg-dq1w"> Axis <span style="background-color:#CCF1BC">(S)</span></td>
+    <td class="tg-ew0z">선회</td>
+    <td class="tg-ew0z">X+(S+)</td>
+    <td class="tg-ew0z">X-(S-)</td>
   </tr>
   <tr>
-    <td class="tg-jnja">Axis 1 (H)</td>
-    <td class="tg-baqh">전후</td>
-    <td class="tg-baqh">Y+(H+)</td>
-    <td class="tg-baqh">Y-(H-)</td>
+    <td class="tg-dq1w"><span style="background-color:#CCF1BC">Axis 1 (H)</span></td>
+    <td class="tg-ew0z">전후</td>
+    <td class="tg-ew0z">Y+(H+)</td>
+    <td class="tg-ew0z">Y-(H-)</td>
   </tr>
   <tr>
-    <td class="tg-jnja">Axis 3 (V)</td>
-    <td class="tg-baqh">상하</td>
-    <td class="tg-baqh">Z+(V+)</td>
-    <td class="tg-baqh">Z-(V-)</td>
+    <td class="tg-dq1w"><span style="background-color:#CCF1BC">Axis 3 (V)</span></td>
+    <td class="tg-ew0z">상하</td>
+    <td class="tg-ew0z">Z+(V+)</td>
+    <td class="tg-ew0z">Z-(V-)</td>
   </tr>
   <tr>
-    <td class="tg-jnja">Axis 4 (R2)</td>
-    <td class="tg-baqh">회전 2</td>
-    <td class="tg-baqh">RX+(R2+)</td>
-    <td class="tg-baqh">RX-(R2-)</td>
+    <td class="tg-dq1w"><span style="background-color:#CCF1BC">Axis 4 (R2)</span></td>
+    <td class="tg-ew0z">회전 2</td>
+    <td class="tg-ew0z">RX+(R2+)</td>
+    <td class="tg-ew0z">RX-(R2-)</td>
   </tr>
   <tr>
-    <td class="tg-jnja">Axis 5 (B)</td>
-    <td class="tg-baqh">구부림</td>
-    <td class="tg-baqh">RY+(B+)</td>
-    <td class="tg-baqh">RY-(B-)</td>
+    <td class="tg-dq1w"><span style="background-color:#CCF1BC">Axis 5 (B)</span></td>
+    <td class="tg-ew0z">구부림</td>
+    <td class="tg-ew0z">RY+(B+)</td>
+    <td class="tg-ew0z">RY-(B-)</td>
   </tr>
   <tr>
-    <td class="tg-jnja">Axis 6 (R1)</td>
-    <td class="tg-baqh">회전 1</td>
-    <td class="tg-baqh">RZ+(R1+)</td>
-    <td class="tg-baqh">RZ-(R1-)</td>
+    <td class="tg-dq1w"><span style="background-color:#CCF1BC">Axis 6 (R1)</span></td>
+    <td class="tg-ew0z">회전 1</td>
+    <td class="tg-ew0z">RZ+(R1+)</td>
+    <td class="tg-ew0z">RZ-(R1-)</td>
   </tr>
 </tbody>
 </table>
@@ -1315,8 +1387,7 @@
 
 [NEW]   
 
-그림 3.2 본체 각 부위 명칭
-# 3.3. 운반 방법
+그림 3.2 안전 명판 위치# 3.3. 운반 방법
 
 로봇 운반은 크레인 또는 지게차를 이용하여 운반 할 수 있습니다. 로봇을 이동 할 경우, 반드시 하기 표와 같은 로봇 자세로 설정 한 다음, 아이볼트(Eye bolt) 및 지정된 운반장비를 이용하여 운반 바랍니다. 로봇 운반 자세는 다음과 같습니다.
 
@@ -1623,7 +1694,11 @@
 <table border="0">
 <thead>
   <tr>
-    <td> <img src="../../_assets/주의표시.png" width = 45 height = 40> </td>
+    <td>
+    <div align="center">
+      <img src="../../_assets/주의표시.png" width = 45 height = 40>
+    </div>
+    </td> 
     <td colspan="4"> Cable 연결 시 제어기 전원은 반드시 Off하여 주십시오.</td>
   </tr>
 </thead>
@@ -1679,25 +1754,19 @@
 
     B축, R1축에서부터 무게 중심까지 거리 계산
 
+    ![](../../_assets/3.6.1_수식1.PNG)
+
     L<sub>B</sub> : B축 회전 중심에서 무게중심까지의 거리
 
     L<sub>R1</sub> : R1축 회전 중심에서 무게중심까지의 거리
 
-    $L_{B}=\sqrt{{{L_{x}}^{2}}+{{L_{z}}^{2}}}$ , $L_{R1}=\sqrt{{{L_{y}}^{2}}+{{L_{z}}^{2}}}$
+
 
 *	Step 3
 
     계산된 거리로부터 부하 토크를 계산
 
-    $T_{B}=MgL_{B}$  , $T_{R1}=MgL_{R1}$
-
-    $T_{B}$ : B축 회전 중심에서의 부하 토크
-
-    $T_{R1}$ : R1축 회전 중심에서의 부하 토크
-
-    $M$ : 부하의 질량
-    
-    $g$ : 중력가속도
+    ![](../../_assets/3.6.1_수식2.PNG)
 
 
 *	Step 4
@@ -1723,7 +1792,7 @@
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-zegx{background-color:#f8f8be;text-align:center;vertical-align:middle}
+.tg .tg-zegx{background-color:#f8f8be;color:#000000; font-weight:bold;text-align:center;vertical-align:middle}
 .tg .tg-nrix{text-align:center;vertical-align:middle}
 </style>
 <table class="tg">
@@ -1780,7 +1849,7 @@
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-zegx{background-color:#f8f8be;text-align:center;vertical-align:middle}
+.tg .tg-zegx{background-color:#f8f8be;color:#000000; font-weight:bold;text-align:center;vertical-align:middle}
 .tg .tg-nrix{text-align:center;vertical-align:middle}
 </style>
 <table class="tg">
@@ -1848,27 +1917,18 @@ B축 기준 무게중심 위치 L<sub>X</sub> = 350mm, L<sub>Y</sub> = 0mm, L<su
 
 B, R1축에서 무게중심까지의 거리를 계산하면 아래와 같습니다.
 
-B축 기준 거리  $L_{B} = \sqrt{0.35^{2} + 0.06^{2}} = 0.355m$
+![](../../_assets/3.6.3_수식1.PNG)
 
-R1축 기준 거리 $L_{R1}$ = 0.06m
-
-B축 부하 토크 $T_{B}=MgL_{B}$ 
-
-R1축 부하 토크 $T_{R1}=MgL_{R1}$
 
 <br>
 
 ③ 허용 관성모멘트 제한
 
 무게중심에서 부하의 관성 모멘트  J<sub>xx</sub>= 1.56kgm², J<sub>yy</sub>= 1.56 kgm², J<sub>zz</sub>= 1.56 kgm²
-    
-B축 관성 모멘트 (Ja5)
 
-$J_{a5}=ML_{B}^{2}+J_{yy} = 138.15\times 0.355^{2} + 1.56 = 18.97\leq 106kgm^{2}$
 
-R1축 관성 모멘트 (Ja6)
+![](../../_assets/3.6.3_수식2.PNG)
 
-$J_{a6}=ML_{R1}^{2}+J_{xx} = 138.15\times 0.06^{2} + 1.56 = 2.06\leq 56kgm^{2}$
 
 <br>
   
@@ -1917,27 +1977,16 @@ L<sub>zi</sub> - i 블록 Z축 방향 무게중심 위치
 
 B축 회전 중심에서 전체 부하의 무게중심 위치를 구하면 아래와 같습니다.
 
-$L_{x}=\frac{\sum_{i}^{}m_{i}L_{xi}}{\sum_{i}^{}m_{i}}=\frac{14.6X250+125.4X460+36.3X840}{176.3}=520.85mm$
+![](../../_assets/3.6.3_수식3.PNG)
 
-$L_{y}$= 0 mm (Since the y-axis is symmetrical)
-
-$L_{z}=\frac{\sum_{i}^{}m_{i}L_{zi}}{\sum_{i}^{}m_{i}}=\frac{14.6X0+125.4X260+36.3X260}{176.3}=238.47mm$
 
 <br>
 
-블록 전체 B축 기준 무게중심 위치 $L_{x}$ = 520.85mm, $L_{y}$ = 0mm, $L_{z}$= -238.47mm
+블록 전체 B축 기준 무게중심 위치 L<sub>x</sub> = 520.85mm, L<sub>y</sub> = 0mm, L<sub>z</sub>= -238.47mm
 
 <br>
 
-B축에서 무게 중심까지의 거리 $L_{B} = \sqrt{0.521^{2} + 0.238^{2}} = 0.573m$
-
-R1축에서 무게 중심까지의 거리 $L_{R1} = \sqrt{0.238^{2} + 0.0^{2}} = 0.238m$
-
-<br>
-
-B축 부하 토크 $T_{B}=MgL_{B} = 101.02kgfm ≤ 110kgfm$
-
-R1축 부하 토크 $T_{R1}=MgL_{R1} = 41.96kgfm ≤ 58kgfm$
+![](../../_assets/3.6.3_수식4.PNG)
 
 <br>
 
@@ -1979,7 +2028,7 @@ J<sub>xx3</sub>, J<sub>yy3</sub>, J<sub>zz3</sub> – m3 블록 무게중심에�
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-1e26{background-color:#f8f8be;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-1e26{background-color:#f8f8be;color:#000000; font-weight:bold;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-baqh{text-align:center;vertical-align:top}
 .tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
 </style>
@@ -2020,24 +2069,13 @@ J<sub>xx3</sub>, J<sub>yy3</sub>, J<sub>zz3</sub> – m3 블록 무게중심에�
 
 <br>
 
-B축 관성 모멘트 (J<sub>a5</sub>)
-
-J<sub>a5</sud> = $\sum_{i}^{}\left [ mi(L_{xi}^{2}+L_{zi}^{2})+j_{yyi} \right ]$
-
-=[14.6 X (0.25²) + 0.114]+[125.4 X (0.46² + 0.26²) + 2.915]+[36.3 X (0.85² +0.26²) + 0.314] = 67.95 ≤ 106kgm²
-
+![](../../_assets/3.6.3_수식5.PNG)
 
 <br>
 
-R1축 관성 모멘트 (J<sub>a6</sub>)
+④ 결론
 
-=[14.6 X (0²) + 0.219]+[125.4 X (0.26²) + 2.530]+[36.3 X (0.26²) + 0.350] = 14.03 ≤ 56kgm²
-
-<br>
-
-4.	결론
-
-    중량, 토크, 관성모멘트 조건 모두 제한 조건을 만족하므로 안전합니다. 
+중량, 토크, 관성모멘트 조건 모두 제한 조건을 만족하므로 안전합니다. 
 # 4. 점검
 
 로봇의 성능을 장기간 유지 시키기 위해 필요한 정기점검 및 분해조정 등에 대해서 설명합니다.# 4.1. 점검 계획
@@ -2051,38 +2089,39 @@ R1축 관성 모멘트 (J<sub>a6</sub>)
 
 
 <br>
-표 4-1 점검 계획 
+표 4-1 점검 계획
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-wa1i{font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-jafi{background-color:#f8f8be;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-nrix{text-align:center;vertical-align:middle}
+.tg .tg-9wq8{border-color:inherit;text-align:center;vertical-align:middle}
+.tg .tg-c3xd{background-color:#f8f8be;border-color:inherit;color:#000000;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-uzvj{border-color:inherit;font-weight:bold;text-align:center;vertical-align:middle}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-jafi">일상점검</th>
-    <th class="tg-wa1i">일상</th>
-    <th class="tg-nrix">본체, 모터, 감속기, 가스스프링</th>
+    <th class="tg-c3xd">일상점검</th>
+    <th class="tg-uzvj">일상</th>
+    <th class="tg-9wq8">본체, 모터, 감속기, 가스스프링</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-jafi" rowspan="3">정기점검</td>
-    <td class="tg-wa1i">3개월</td>
-    <td class="tg-nrix">배선, 볼트, 감속기</td>
+    <td class="tg-c3xd" rowspan="3">정기점검</td>
+    <td class="tg-uzvj">3개월</td>
+    <td class="tg-9wq8">배선, 볼트, 감속기</td>
   </tr>
   <tr>
-    <td class="tg-wa1i">6개월</td>
-    <td class="tg-nrix">가스스프링, 가스스프링 베어링</td>
+    <td class="tg-uzvj">6개월</td>
+    <td class="tg-9wq8">가스스프링, 가스스프링 베어링</td>
   </tr>
   <tr>
-    <td class="tg-wa1i">1년</td>
-    <td class="tg-nrix">리미트스위치/도그, 브레이크</td>
+    <td class="tg-uzvj">1년</td>
+    <td class="tg-9wq8">리미트스위치/도그, 브레이크</td>
   </tr>
 </tbody>
 </table># 4.2. 점검항목과 주기
@@ -2096,7 +2135,7 @@ R1축 관성 모멘트 (J<sub>a6</sub>)
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-wa1i{font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-jafi{background-color:#f8f8be;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-jafi{background-color:#f8f8be;color:#000000; font-weight:bold;font-weight:bold;text-align:center;vertical-align:middle}
 .tg .tg-nrix{text-align:center;vertical-align:middle}
 </style>
 <table class="tg">
@@ -2295,7 +2334,11 @@ R1축 관성 모멘트 (J<sub>a6</sub>)
 <table>
 <thead>
   <tr>
-    <td><img src="../_assets/주의표시.png" width = 40 height = 40> </td>
+    <td>
+    <div align="center">
+      <img src="../_assets/주의표시.png" width = 40 height = 40> 
+    </div>
+    </td>
     <td colspan="4">권장볼트 토크는 아래 그림에 표시되어 있습니다.<br>반드시 토크 렌치를 사용하여 적정 토크로 체결한 후 페인트 마킹을 하여 주십시오.<br>볼트는 12.9T (강도 등급)을 사용하여 주십시오.</td>
   </tr>
 </thead>
@@ -2309,8 +2352,8 @@ R1축 관성 모멘트 (J<sub>a6</sub>)
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-t1e1{background-color:#ccf1bc;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-1e26{background-color:#f8f8be;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-t1e1{background-color:#ccf1bc;color:#000000; font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-1e26{background-color:#f8f8be;color:#000000; font-weight:bold;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-baqh{text-align:center;vertical-align:top}
 </style>
 <table class="tg">
@@ -2374,7 +2417,11 @@ R1축 관성 모멘트 (J<sub>a6</sub>)
 <table border="0">
 <thead>
   <tr>
-    <td> <img src="../../_assets/주의표시.png" width = 120 height = 40> </td>
+    <td>
+    <div align="center">
+      <img src="../../_assets/주의표시.png" width = 40 height = 40>
+    </div>  
+    </td>
     <td colspan="4">그리스 주입을 올바르게 하지 않으면, 갑작스런 내부압력 증가로 오일씰의 손상, 누유 및 비정상적인 동작을 유발할 수 있습니다. 사양이 다른 그리스로 교환 시 이상음이 발생할 수 있으므로 혼유되지 않도록 주의하여 주십시오. 그리스 주유 시 다음 사항을 반드시 준수하십시오.</td>
   </tr>
 </thead>
@@ -2537,7 +2584,7 @@ R1축 관성 모멘트 (J<sub>a6</sub>)
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-rgo3{background-color:#f8f8be;text-align:center;vertical-align:middle}
+.tg .tg-rgo3{background-color:#f8f8be;color:#000000; font-weight:bold;text-align:center;vertical-align:middle}
 .tg .tg-nrix{text-align:center;vertical-align:middle}
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
@@ -2641,7 +2688,7 @@ R1축 관성 모멘트 (J<sub>a6</sub>)
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-wyha{background-color:#f8f8be;text-align:center;vertical-align:middle}
+.tg .tg-wyha{background-color:#f8f8be;color:#000000; font-weight:bold;text-align:center;vertical-align:middle}
 .tg .tg-nrix{text-align:center;vertical-align:middle}
 </style>
 <table class="tg">
@@ -2676,7 +2723,7 @@ R1축 관성 모멘트 (J<sub>a6</sub>)
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-wyha{background-color:#ffffc7;text-align:center;vertical-align:middle}
+.tg .tg-wyha{background-color:#ffffc7;color:#000000; font-weight:bold;text-align:center;vertical-align:middle}
 .tg .tg-nrix{text-align:center;vertical-align:middle}
 </style>
 <table class="tg">
@@ -2869,7 +2916,11 @@ R1축 관성 모멘트 (J<sub>a6</sub>)
 <table border="0">
 <thead>
   <tr>
-    <td> <img src="../../_assets/주의표시.png" width = 160 height = 40> </td>
+    <td>
+    <div align="center">
+     <img src="../../_assets/주의표시.png" width = 80 height = 80>
+    </div>
+    </td> 
     <td colspan="4">그리스가 주입된 감속기부 등의 그리스 통(Barrel) 내부에 너무 높은 공기 압력이 공급되면 갑자기 그리스가 분출되는 위험이 있습니다. 반드시 그리스 배출구에서 나오는 그리스가 그리스 받이로만 배출되도록 덮어 주십시오. 그리스 배출 작업 시 복장은 보호안경, 얼굴 보안면, 보호복장 등의 안전 복장을 착용하여 주십시오.
 
 그리스 통 내부의 압력은 0.025Mpa가 초과되지 않도록, 그리스 통에 장착 전  0Mpa부터 서서히 0.025Mpa까지 압력을 올려가며 세팅하고, 스톱밸브를 수 회 열고 닫으며 설정 압력이 적절한지 확인한 후, 그리스 통의 배출구에 장착하여 주십시오. 장착 후 스톱밸브를 열고 닫아 압력이 적절한지 한번 더 확인하여 주십시오.
@@ -2919,7 +2970,11 @@ R1축 관성 모멘트 (J<sub>a6</sub>)
 <table border="0">
 <thead>
   <tr>
-    <td> <img src="../../_assets/주의표시.png" width = 65 height = 40> </td>
+    <td>
+    <div align="center">
+      <img src="../../_assets/주의표시.png" width = 40 height = 40>
+    </div>
+    </td>  
     <td colspan="4">그리스를 과도하게 주입하지 마십시오. 과도한 그리스는 내압 증가로 인한 그리스 누유와 로봇의 비정상적인 작동을 유발할 수 있습니다.</td>
   </tr>
 </thead>
@@ -2968,7 +3023,11 @@ R1축 관성 모멘트 (J<sub>a6</sub>)
 <table border="0">
 <thead>
   <tr>
-    <td> <img src="../_assets/주의표시.png" width = 55 height = 40> </td>
+    <td>
+    <div align="center">
+      <img src="../_assets/주의표시.png" width = 40 height = 40>
+    </div>
+    </td>   
     <td colspan="4">전원을 끄고 배터리를 교환하면, 현재의 모든 위치 데이터를 잃어버리게 됩니다. 따라서 원점 설정을 다시 해야 합니다.</td>
   </tr>
 </thead>
@@ -3001,7 +3060,11 @@ R1축 관성 모멘트 (J<sub>a6</sub>)
 <table border="0">
 <thead>
   <tr>
-    <td> <img src="../_assets/주의표시.png" width = 50 height = 40> </td>
+    <td>
+    <div align="center">
+      <img src="../_assets/주의표시.png" width = 80 height = 80>
+    </div>
+    </td> 
     <td colspan="4">
 -	배터리를 버리지 마십시오. 해당 나라의 법이나 규율에 따라 산업용 폐기물로 취급 하십시오.<p>
 -	배터리를 충전하지 마십시오. 폭발이나 과열을 일으킬 수 있습니다.<p>
@@ -3033,7 +3096,11 @@ R1축 관성 모멘트 (J<sub>a6</sub>)
 <table border="0">
 <thead>
   <tr>
-    <td> <img src="../_assets/주의표시.png" width = 55 height = 40> </td>
+    <td>
+    <div align="center">
+      <img src="../_assets/주의표시.png" width = 60 height = 60>
+    </div>
+    </td> 
     <td colspan="4">
    -	배선에는 내굴곡성이 있는 것을 사용하고 있으므로 지정한 전선 이외는 절대로 사용하지 않도록 하십시오.<p>
    -	배선의 교환은 유니트(Unit) 단위로 하십시오.<p>
@@ -3085,7 +3152,7 @@ R1축 관성 모멘트 (J<sub>a6</sub>)
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-wa1i{font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-jafi{background-color:#f8f8be;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-jafi{background-color:#f8f8be;color:#000000; font-weight:bold;font-weight:bold;text-align:center;vertical-align:middle}
 .tg .tg-nrix{text-align:center;vertical-align:middle}
 </style>
 <table class="tg">
@@ -3211,7 +3278,11 @@ R1축 관성 모멘트 (J<sub>a6</sub>)
 <table>
 <thead>
   <tr>
-    <td><img src="../../_assets/주의표시.png" width = 90 height = 40> </td>
+    <td>
+    <div align="center">
+      <img src="../../_assets/주의표시.png" width = 60 height = 60>
+    </div>
+    </td>
     <td colspan="4">
 
 -	H축, V축의 모터 및 감속기 교체 시, 브레이크 해제 스위치를 “ON”, “OFF” 시 암(Arm)이 낙하하지 않도록 반드시 작업 전에 낙하방지 볼트 혹은 핀(Pin)으로 고정하여 주십시오.
@@ -3343,7 +3414,11 @@ Gas 스프링 점검 전 반드시 제어기 및 외부 전원이 『OFF』 상�
 <table border="0">
 <thead>
   <tr>
-    <td><img src="../../_assets/주의표시.png" width = 45 height = 40> </td>
+    <td>
+    <div align="center">
+      <img src="../../_assets/주의표시.png" width = 45 height = 40>
+    </div>
+    </td>
     <td colspan="4">
     - 축 낙하가 발생하지 않도록 가스 스프링의 적절 사용 압력을 준수하여 주십시오.<p>
     - 베어링이 조기 파손되지 않도록 베어링부에 주기적인 급유를 하여 주십시오.
@@ -3359,7 +3434,7 @@ Gas 스프링 점검 전 반드시 제어기 및 외부 전원이 『OFF』 상�
 <table>
 <thead>
   <tr>
-    <td><img src="../../_assets/주의표시.png" width = 120 height = 40> </td>
+    <td><img src="../../_assets/주의표시.png" width = 80 height = 80> </td>
     <td colspan="4"> 본 로봇은 암의 자세 유지용 브레이크가 모터에 내장되어 있으므로 모터를 분리하면 암이 낙하합니다. 이런 낙하를 방지하기 위해 크레인 등으로 암을 매달거나, 고정용 핀(Pin)을 삽입하여 제 1암과 제2암을 고정시키는 등의 안전대책을 필히 행하여 주십시오.<p></p>
     로봇 정지 직후 모터에 접촉하는 경우에는, 모터 온도를 확인하십시오. 모터의 무게는 다음과 같습니다. 모터 운반 시 유의하십시오.
 </td>
@@ -3375,7 +3450,7 @@ Gas 스프링 점검 전 반드시 제어기 및 외부 전원이 『OFF』 상�
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-jafi{background-color:#f8f8be;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-jafi{background-color:#f8f8be;color:#000000; font-weight:bold;text-align:center;vertical-align:middle}
 .tg .tg-nrix{text-align:center;vertical-align:middle}
 </style>
 <table class="tg">
@@ -3408,7 +3483,11 @@ Gas 스프링 점검 전 반드시 제어기 및 외부 전원이 『OFF』 상�
 <table border="0">
 <thead>
   <tr>
-    <td><img src="../../_assets/주의표시.png" width = 140 height = 40> </td>
+    <td>
+    <div align="center">
+      <img src="../../_assets/주의표시.png" width = 60 height = 60>
+    </div>
+    </td>
     <td colspan="4">이 작업은 운전 준비 [ON] 상태에서 시행할 부분이 있습니다. 그러므로 2인 1조로 작업을 실시하며 한 사람은 언제라도 비상정지 버턴을 누를 자세를 취하고, 다른 한 사람은 로봇의 동작에 특히 주의하면서 신속하게 작업을 하십시오. 또한, 작업 전에는 미리 위험을 벗어날 장소를 확인하여 주십시오.
 </td>
   </tr>
@@ -3424,7 +3503,7 @@ Gas 스프링 점검 전 반드시 제어기 및 외부 전원이 『OFF』 상�
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-jafi{background-color:#f8f8be;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-jafi{background-color:#f8f8be;color:#000000;font-weight:bold;text-align:center;vertical-align:middle}
 .tg .tg-nrix{text-align:center;vertical-align:middle}
 </style>
 <table class="tg">
@@ -3461,7 +3540,7 @@ Gas 스프링 점검 전 반드시 제어기 및 외부 전원이 『OFF』 상�
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-jafi{background-color:#f8f8be;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-jafi{background-color:#f8f8be;color:#000000;font-weight:bold;text-align:center;vertical-align:middle}
 .tg .tg-nrix{text-align:center;vertical-align:middle}
 </style>
 <table class="tg">
@@ -3496,7 +3575,11 @@ Gas 스프링 점검 전 반드시 제어기 및 외부 전원이 『OFF』 상�
 <table border="0">
 <thead>
   <tr>
-    <td><img src="../../_assets/주의표시.png" width = 110 height = 40> </td>
+    <td>
+    <div align="center">
+      <img src="../../_assets/주의표시.png" width = 60 height = 60>
+    </div>
+    </td>
     <td colspan="4">본 로봇은 암의 자세 유지용 브레이크가 모터에 내장되어 있으므로 모터를 분리하면 암이 낙하합니다. 따라서 낙하를 방지하기 위해 크레인 등으로 암을 매달고, 고정용 볼트를 삽입하여 1암과 2암을 고정시키는 안전대책을 반드시 행해야 합니다.</td>
   </tr>
 </thead>
@@ -3537,7 +3620,11 @@ Gas 스프링 점검 전 반드시 제어기 및 외부 전원이 『OFF』 상�
 <table>
 <thead>
   <tr>
-    <td><img src="../../_assets/주의표시.png" width = 70 height = 40> </td>
+    <td>
+    <div align="center">
+      <img src="../../_assets/주의표시.png" width = 40 height = 40>
+    </div>
+    </td>
     <td colspan="4">엔코더 보정을 하기 전에, 일단 운전준비 [ON]으로 해서, 티치펜던트의 Enable 스위치를 2∼3초간 누르면서 전원이 들어가는지 확인합니다.</td>
   </tr>
 </thead>
@@ -3577,8 +3664,13 @@ Gas 스프링 점검 전 반드시 제어기 및 외부 전원이 『OFF』 상�
 <table border="0">
 <thead>
   <tr>
-    <td><img src="../../_assets/주의표시.png" width = 80 height = 40> </td>
-    <td colspan="4">V축 모터 교체 시 상부암 전체를 기계적 스토퍼(Stopper)에 중력방향으로 정확하게 밀착시키지 않으면 모터를 분리하면서 상부암이 회전할 수 있습니다.</td>
+    <td>
+    <div align="center">
+      <img src="../../_assets/주의표시.png" width = 40 height = 40>
+    </div>
+    </td>
+    <td colspan="4">V축 모터 교체 시 상부암 전체를 기계적 스토퍼(Stopper)에 중력방향으로 정확하게 밀착시키지 않으면 모터를 분리하면서 상부암이 회전할 수 있습니다.
+    </td>
   </tr>
 </thead>
 </table>  
@@ -3658,7 +3750,7 @@ Gas 스프링 점검 전 반드시 제어기 및 외부 전원이 『OFF』 상�
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-wa1i{font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-jafi{background-color:#f8f8be;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-jafi{background-color:#f8f8be;color:#000000;font-weight:bold;text-align:center;vertical-align:middle}
 .tg .tg-nrix{text-align:center;vertical-align:middle}
 </style>
 <table class="tg">
@@ -3693,7 +3785,11 @@ Gas 스프링 점검 전 반드시 제어기 및 외부 전원이 『OFF』 상�
 <table>
 <thead>
   <tr>
-    <td><img src="../../_assets/주의표시.png" width = 65 height = 40> </td>
+    <td>
+    <div align="center">
+      <img src="../../_assets/주의표시.png" width = 60 height = 60>
+    </div>
+    </td>
     <td colspan="4"><b>주의사항</b><br>
     모터 교환 후, 엔코더 DATA 보정을 행하는 경우, 일단 전원 준비를 『ON』상태로 해서 모터에 전원이 들어가는지를 확인해 주십시오.</td>
   </tr>
@@ -3723,7 +3819,7 @@ D : 기구 부품
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-jafi{background-color:#f8f8be;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-jafi{background-color:#f8f8be;color:#000000;font-weight:bold;text-align:center;vertical-align:middle}
 .tg .tg-nrix{text-align:center;vertical-align:middle}
 </style>
 <table class="tg">
@@ -4257,7 +4353,7 @@ D : 기구 부품
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-jafi{background-color:#f8f8be;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-jafi{background-color:#f8f8be;color:#000000;font-weight:bold;text-align:center;vertical-align:middle}
 .tg .tg-nrix{text-align:center;vertical-align:middle}
 </style>
 <table class="tg">
@@ -4354,7 +4450,11 @@ D : 기구 부품
 <table border="0">
 <thead>
   <tr>
-    <td><img src="../../_assets/주의표시.png" width = 100 height = 40> </td>
+    <td>
+    <div align="center">
+      <img src="../../_assets/주의표시.png" width = 100 height = 100>
+    </div>
+    </td>
     <td colspan="4">
 
 *	가스 스프링의 분리 및 조립 시 아래 그림과 같이HINGE의 볼트는 HINGE가 과다 기울임 발생되지 않도록, 상/하측 볼트를 번갈아 가며 볼트를 45도 이하로 회전 하여 체결 혹은 풀기 하여 주십시오.<br>
@@ -4387,7 +4487,11 @@ D : 기구 부품
 <table border="0">
 <thead>
   <tr>
-    <td><img src="../_assets/주의표시.png" width = 140 height = 40> </td>
+    <td>
+    <div align="center">
+      <img src="../_assets/주의표시.png" width = 120 height = 120>
+    </div>
+    </td>
     <td colspan="4">
 
 -	질소 가스 충전은 고압이므로, 해당 국가의 안전 규정을 준수하여 주십시오.
@@ -4466,7 +4570,7 @@ Pressure Tester 의 노브 N을 시계 반대 방향으로 돌려 분리하고, 
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-1e26{background-color:#f8f8be;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-1e26{background-color:#f8f8be;color:#000000;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-baqh{text-align:center;vertical-align:top}
 </style>
 <table class="tg">
@@ -4507,7 +4611,11 @@ Pressure Tester 의 노브 N을 시계 반대 방향으로 돌려 분리하고, 
 <table border="0">
 <thead>
   <tr>
-    <td> <img src="../_assets/주의표시.png" width = 50 height = 40> </td>
+    <td>
+    <div align="center">
+      <img src="../_assets/주의표시.png" width = 50 height = 40> 
+    </div>
+    </td>
     <td colspan="4">Gas 압력 측정 시마다 약 0.5 bar의 감압이 발생합니다.<br>
 Cross Pressure Tester(Pressure Tester = Armature)는 유형에 따라 명칭 및 핸들의 위치가 다를 수 있습니다.</td>
   </tr>
@@ -4518,7 +4626,11 @@ Cross Pressure Tester(Pressure Tester = Armature)는 유형에 따라 명칭 및
 <table>
 <thead>
   <tr>
-    <td><img src="../../_assets/주의표시.png" width = 90 height = 40> </td>
+    <td>
+    <div align="center">
+      <img src="../../_assets/주의표시.png" width = 100 height = 100>
+    </div>
+    </td>
     <td colspan="4">
 
 -	질소가스 충전은 고압이므로, 해당 국가의 안전 규정을 준수하여 주십시오.
@@ -4622,7 +4734,11 @@ G1/8 PLUG를 가스 스프링에 체결합니다.
 <table border="0">
 <thead>
   <tr>
-    <td> <img src="../../_assets/주의표시.png" width = 55 height = 40> </td>
+    <td>
+    <div align="center">
+      <img src="../../_assets/주의표시.png" width = 40 height = 40>
+    </div>
+    </td>
     <td colspan="4">Gas 보충 KIT는 유형에 따라 형상 및 명칭이 다를 수 있으므로, 구매 시 동봉된 매뉴얼을 참조하여 주십시오.</td>
   </tr>
 </thead>
@@ -4720,7 +4836,11 @@ G1/8 PLUG를 가스 스프링에 체결합니다.
 <table border="0">
 <thead>
   <tr>
-    <td> <img src="../../_assets/주의표시.png" width = 60 height = 40> </td>
+    <td>
+    <div align="center">
+      <img src="../../_assets/주의표시.png" width = 40 height = 40>
+    </div>
+    </td>
     <td colspan="4">Gas 보충 KIT및 부스터는 유형에 따라 형상 및 명칭이 다를 수 있으므로, 구매 시 동봉된 매뉴얼을 참조하여 주십시오.
 </td>
   </tr>
@@ -4737,7 +4857,11 @@ Gas 스프링의 Gas 배출은 다음과 같은 경우에 이루어집니다.
 <table border="0">
 <thead>
   <tr>
-    <td><img src="../_assets/주의표시.png" width = 70 height = 40> </td>
+    <td>
+    <div align="center">
+      <img src="../_assets/주의표시.png" width = 40 height = 40>
+    </div>
+    </td>
     <td colspan="4">Gas 배출이 급격하게 이루어지는 경우, 스프링 내부의 유색 Oil 등이 분출될 수 있습니다. 보안경을 착용하시고, 배출이 천천히 이루어지도록 하여 주십시오.</td>
   </tr>
 </thead>
@@ -4817,7 +4941,11 @@ G1/8 PLUG를 가스 스프링에 체결합니다.
 <table border="0">
 <thead>
   <tr>
-    <td> <img src="../../_assets/금지표시.png" width = 170 height = 40> </td>
+    <td>
+    <div align="center">
+      <img src="../../_assets/금지표시.png" width = 170 height = 40>
+    </div>
+    </td>
     <td colspan="4">
     - 가스 스프링을 절대 분리하면 안 되는 자세 : H축 90˚ 이외의 각도<p>
 (H축90˚ 이외의 자세에서는 가스스프링의 압축력이 과다하여 
@@ -4884,7 +5012,11 @@ HINGE의 볼트를 풀게 되면, 가스스프링의 압력에 의하여 나사�
 <table border="0">
 <thead>
   <tr>
-    <td> <img src="../../_assets/주의표시.png" width = 100 height = 40> </td>
+    <td>
+    <div align="center">
+      <img src="../../_assets/주의표시.png" width = 80 height = 80>
+    </div>
+    </td>
     <td colspan="4">
     
 -	가스 스프링의 분리 및 조립 시 그림 9.7 HINGE의 볼트는 HINGE가 과다 기울임 발생되지 않도록, 상/하측 볼트를 번갈아 가며 볼트를 45도 이하로 회전 하여 체결 혹은 풀기 하여 주십시오.
@@ -4915,7 +5047,7 @@ HINGE의 볼트를 풀게 되면, 가스스프링의 압력에 의하여 나사�
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-wa1i{font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-jafi{background-color:#f8f8be;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-jafi{background-color:#f8f8be;color:#000000;font-weight:bold;text-align:center;vertical-align:middle}
 .tg .tg-nrix{text-align:center;vertical-align:middle}
 </style>
 <table class="tg">
